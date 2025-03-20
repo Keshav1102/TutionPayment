@@ -18,14 +18,12 @@ A decentralized application for education management using blockchain technology
 - SchoolManagement: 0x1c9C2c0ad5974dB717a5D4f4BDBF7511d6b6820f
 - StudentManagement: 0x16401E70cF2EEbBbaa16B5511149f625c9A994Fd
 
-## Installation
-
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Start the development server with `npm start`
-
 ## Usage
 
 1. Connect your MetaMask wallet
 2. Navigate to the appropriate section based on your role (Teacher or Student)
-3. Interact with the smart contracts through the user interface 
+3. Interact with the smart contracts through the user interface
+
+## License
+
+This project is licensed under the MIT License.
